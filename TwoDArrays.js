@@ -40,7 +40,7 @@ details. */
 let contactsList =[
     ["Lindsay", "lindsayow@gmail.com", "314-842-5715"],
     ["Gayle", "gylarson@yahoo.com", "314-518-8801"],
-    ["Sheri", "sherimyers@live.com", "314-701-4594"],
+  //  ["Sheri", "sherimyers@live.com", "314-701-4594"],
 ];
 
 console.log(contactsList);
